@@ -3,4 +3,6 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ### Notes
 -the dataset i used on this model is the 102 Category Flower Dataset , you can get it [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) 
+
+
 -before using predict.py you must run train.py to get the model checkpoint saved, dont worry i froze the initial layers of the model so training the model goes from 6hrs to 5mins 
