@@ -1,2 +1,3 @@
 # AI-Nanodegree-Python-Project
-Final project of a neural network trained on images of flowers to correctly define its class
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, i  first had develop code for an image classifier built with PyTorch, then convert it into a command line application.
+
